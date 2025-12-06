@@ -36,3 +36,9 @@ The portfolio covers:
 
 - Week 07 - Penetration Testing Basics  
   Reconnaissance, HTTP header analysis, and a simple port scanner.
+
+- Week 08 - Portfolio Review and Feedback  
+  Reviewing the e-portfolio, adding the missing Week 1 careers task.
+
+- Week 09 - Gen AI Security with Local LLMs  
+  Running local language models with Ollama and exploring Gen AI security topics such as prompt injection, session level data poisoning concepts, model inversion style probing, and model extraction behaviour across multiple models.
