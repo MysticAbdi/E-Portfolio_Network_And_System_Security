@@ -13,6 +13,8 @@ The portfolio covers:
 - Web security and black-box scanning with Wapiti
 - Static binary analysis (hashes, strings, PE headers, YARA)
 - Basic penetration testing (recon, HTTP header analysis, port scanning)
+- Portfolio review and alignment of lab documentation with implemented code
+- Gen AI security using local LLMs and Ollama (prompt injection, model behaviour and risks)
 
 ## Weekly overview
 
